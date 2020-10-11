@@ -1,0 +1,178 @@
+2019-11-20 22:45:04,871 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a[@data-menu-id='7']"}
+2019-11-20 22:45:04,895 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:04,896 :DEBUG: Finished Request
+2019-11-20 22:45:04,896 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/3ef93dd4-92be-4cf4-a253-3a7a4a0cd74f/click {"id": "3ef93dd4-92be-4cf4-a253-3a7a4a0cd74f"}
+2019-11-20 22:45:05,029 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/3ef93dd4-92be-4cf4-a253-3a7a4a0cd74f/click HTTP/1.1" 200 14
+2019-11-20 22:45:05,029 :DEBUG: Finished Request
+2019-11-20 22:45:09,031 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a/div[contains(text(),'All Mobile Phones')]"}
+2019-11-20 22:45:09,064 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:09,065 :DEBUG: Finished Request
+2019-11-20 22:45:09,065 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/3e66ab73-8557-4bec-8088-cb07ae477591/click {"id": "3e66ab73-8557-4bec-8088-cb07ae477591"}
+2019-11-20 22:45:11,750 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/3e66ab73-8557-4bec-8088-cb07ae477591/click HTTP/1.1" 200 14
+2019-11-20 22:45:11,751 :DEBUG: Finished Request
+2019-11-20 22:45:11,751 :DEBUG: GET http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/title {}
+2019-11-20 22:45:11,923 :DEBUG: http://127.0.0.1:57702 "GET /session/fc071ccdc0617146002ff536a10fb423/title HTTP/1.1" 200 110
+2019-11-20 22:45:11,924 :DEBUG: Finished Request
+2019-11-20 22:45:13,924 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/back {}
+2019-11-20 22:45:16,022 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/back HTTP/1.1" 200 14
+2019-11-20 22:45:16,023 :DEBUG: Finished Request
+2019-11-20 22:45:18,023 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "css selector", "value": "[id=\"nav-hamburger-menu\"]"}
+2019-11-20 22:45:18,061 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:18,061 :DEBUG: Finished Request
+2019-11-20 22:45:18,061 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/c7085e88-70d9-4d4e-a130-0eca848e18bb/click {"id": "c7085e88-70d9-4d4e-a130-0eca848e18bb"}
+2019-11-20 22:45:18,915 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/c7085e88-70d9-4d4e-a130-0eca848e18bb/click HTTP/1.1" 200 14
+2019-11-20 22:45:18,915 :DEBUG: Finished Request
+2019-11-20 22:45:20,917 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a[@data-menu-id='7']"}
+2019-11-20 22:45:20,944 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:20,944 :DEBUG: Finished Request
+2019-11-20 22:45:20,945 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/bffe9ba8-3db9-4188-b7ea-c5bb7cca4137/click {"id": "bffe9ba8-3db9-4188-b7ea-c5bb7cca4137"}
+2019-11-20 22:45:21,064 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/bffe9ba8-3db9-4188-b7ea-c5bb7cca4137/click HTTP/1.1" 200 14
+2019-11-20 22:45:21,064 :DEBUG: Finished Request
+2019-11-20 22:45:25,064 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a/div[contains(text(),'All Mobile Accessories')]"}
+2019-11-20 22:45:25,083 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:25,083 :DEBUG: Finished Request
+2019-11-20 22:45:25,083 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/4669743c-3492-46e9-ba69-3db4a18af1ef/click {"id": "4669743c-3492-46e9-ba69-3db4a18af1ef"}
+2019-11-20 22:45:27,422 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/4669743c-3492-46e9-ba69-3db4a18af1ef/click HTTP/1.1" 200 14
+2019-11-20 22:45:27,423 :DEBUG: Finished Request
+2019-11-20 22:45:27,423 :DEBUG: GET http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/title {}
+2019-11-20 22:45:27,480 :DEBUG: http://127.0.0.1:57702 "GET /session/fc071ccdc0617146002ff536a10fb423/title HTTP/1.1" 200 97
+2019-11-20 22:45:27,480 :DEBUG: Finished Request
+2019-11-20 22:45:29,481 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/back {}
+2019-11-20 22:45:31,628 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/back HTTP/1.1" 200 14
+2019-11-20 22:45:31,628 :DEBUG: Finished Request
+2019-11-20 22:45:33,630 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "css selector", "value": "[id=\"nav-hamburger-menu\"]"}
+2019-11-20 22:45:33,656 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:33,656 :DEBUG: Finished Request
+2019-11-20 22:45:33,656 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/cd654801-c603-40d6-a150-555acfb17c8b/click {"id": "cd654801-c603-40d6-a150-555acfb17c8b"}
+2019-11-20 22:45:34,424 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/cd654801-c603-40d6-a150-555acfb17c8b/click HTTP/1.1" 200 14
+2019-11-20 22:45:34,425 :DEBUG: Finished Request
+2019-11-20 22:45:36,425 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a[@data-menu-id='7']"}
+2019-11-20 22:45:36,460 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:36,461 :DEBUG: Finished Request
+2019-11-20 22:45:36,461 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/a6c85eb6-b13c-4ece-9cbd-63fce99c596b/click {"id": "a6c85eb6-b13c-4ece-9cbd-63fce99c596b"}
+2019-11-20 22:45:36,570 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/a6c85eb6-b13c-4ece-9cbd-63fce99c596b/click HTTP/1.1" 200 14
+2019-11-20 22:45:36,570 :DEBUG: Finished Request
+2019-11-20 22:45:40,571 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a/div[contains(text(),'Cases & Covers')]"}
+2019-11-20 22:45:40,619 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:40,620 :DEBUG: Finished Request
+2019-11-20 22:45:40,620 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/317d31f8-3a0b-4c06-b197-e0737279d47e/click {"id": "317d31f8-3a0b-4c06-b197-e0737279d47e"}
+2019-11-20 22:45:42,515 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/317d31f8-3a0b-4c06-b197-e0737279d47e/click HTTP/1.1" 200 14
+2019-11-20 22:45:42,515 :DEBUG: Finished Request
+2019-11-20 22:45:42,515 :DEBUG: GET http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/title {}
+2019-11-20 22:45:42,539 :DEBUG: http://127.0.0.1:57702 "GET /session/fc071ccdc0617146002ff536a10fb423/title HTTP/1.1" 200 86
+2019-11-20 22:45:42,540 :DEBUG: Finished Request
+2019-11-20 22:45:44,541 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/back {}
+2019-11-20 22:45:46,584 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/back HTTP/1.1" 200 14
+2019-11-20 22:45:46,585 :DEBUG: Finished Request
+2019-11-20 22:45:48,585 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "css selector", "value": "[id=\"nav-hamburger-menu\"]"}
+2019-11-20 22:45:48,609 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:48,609 :DEBUG: Finished Request
+2019-11-20 22:45:48,609 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/33c8e660-a56c-4c98-83e1-377e0f21e1b7/click {"id": "33c8e660-a56c-4c98-83e1-377e0f21e1b7"}
+2019-11-20 22:45:48,855 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/33c8e660-a56c-4c98-83e1-377e0f21e1b7/click HTTP/1.1" 200 14
+2019-11-20 22:45:48,856 :DEBUG: Finished Request
+2019-11-20 22:45:50,856 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a[@data-menu-id='7']"}
+2019-11-20 22:45:50,883 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:50,883 :DEBUG: Finished Request
+2019-11-20 22:45:50,883 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/86164c97-bc57-4210-992e-34f528cbf88c/click {"id": "86164c97-bc57-4210-992e-34f528cbf88c"}
+2019-11-20 22:45:50,984 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/86164c97-bc57-4210-992e-34f528cbf88c/click HTTP/1.1" 200 14
+2019-11-20 22:45:50,985 :DEBUG: Finished Request
+2019-11-20 22:45:54,986 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a/div[contains(text(),'Screen Protectors')]"}
+2019-11-20 22:45:55,026 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:45:55,027 :DEBUG: Finished Request
+2019-11-20 22:45:55,027 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/fbf7f446-c66d-4026-8d93-8aa9486d827b/click {"id": "fbf7f446-c66d-4026-8d93-8aa9486d827b"}
+2019-11-20 22:45:57,382 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/fbf7f446-c66d-4026-8d93-8aa9486d827b/click HTTP/1.1" 200 14
+2019-11-20 22:45:57,382 :DEBUG: Finished Request
+2019-11-20 22:45:57,382 :DEBUG: GET http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/title {}
+2019-11-20 22:45:57,525 :DEBUG: http://127.0.0.1:57702 "GET /session/fc071ccdc0617146002ff536a10fb423/title HTTP/1.1" 200 108
+2019-11-20 22:45:57,525 :DEBUG: Finished Request
+2019-11-20 22:45:59,525 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/back {}
+2019-11-20 22:46:01,319 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/back HTTP/1.1" 200 14
+2019-11-20 22:46:01,320 :DEBUG: Finished Request
+2019-11-20 22:46:03,321 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "css selector", "value": "[id=\"nav-hamburger-menu\"]"}
+2019-11-20 22:46:03,363 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:46:03,364 :DEBUG: Finished Request
+2019-11-20 22:46:03,364 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/9e0c876a-b7b3-49c5-a4d4-74f1d0982b77/click {"id": "9e0c876a-b7b3-49c5-a4d4-74f1d0982b77"}
+2019-11-20 22:46:03,618 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/9e0c876a-b7b3-49c5-a4d4-74f1d0982b77/click HTTP/1.1" 200 14
+2019-11-20 22:46:03,618 :DEBUG: Finished Request
+2019-11-20 22:46:05,619 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a[@data-menu-id='7']"}
+2019-11-20 22:46:05,661 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:46:05,661 :DEBUG: Finished Request
+2019-11-20 22:46:05,662 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/e530e4f2-e7c3-4766-9807-268c12a945c0/click {"id": "e530e4f2-e7c3-4766-9807-268c12a945c0"}
+2019-11-20 22:46:05,762 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/e530e4f2-e7c3-4766-9807-268c12a945c0/click HTTP/1.1" 200 14
+2019-11-20 22:46:05,762 :DEBUG: Finished Request
+2019-11-20 22:46:09,763 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a/div[contains(text(),'Power Banks')]"}
+2019-11-20 22:46:09,802 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:46:09,802 :DEBUG: Finished Request
+2019-11-20 22:46:09,803 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/da563b69-871d-42f5-8751-0bd1b59504f2/click {"id": "da563b69-871d-42f5-8751-0bd1b59504f2"}
+2019-11-20 22:46:12,055 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/da563b69-871d-42f5-8751-0bd1b59504f2/click HTTP/1.1" 200 14
+2019-11-20 22:46:12,056 :DEBUG: Finished Request
+2019-11-20 22:46:12,056 :DEBUG: GET http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/title {}
+2019-11-20 22:46:12,176 :DEBUG: http://127.0.0.1:57702 "GET /session/fc071ccdc0617146002ff536a10fb423/title HTTP/1.1" 200 82
+2019-11-20 22:46:12,176 :DEBUG: Finished Request
+2019-11-20 22:46:14,178 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/back {}
+2019-11-20 22:46:16,615 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/back HTTP/1.1" 200 14
+2019-11-20 22:46:16,615 :DEBUG: Finished Request
+2019-11-20 22:46:18,617 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "css selector", "value": "[id=\"nav-hamburger-menu\"]"}
+2019-11-20 22:46:18,641 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:46:18,641 :DEBUG: Finished Request
+2019-11-20 22:46:18,641 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/93f42d4f-8a77-4ea4-8807-59a55151dd55/click {"id": "93f42d4f-8a77-4ea4-8807-59a55151dd55"}
+2019-11-20 22:46:18,870 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/93f42d4f-8a77-4ea4-8807-59a55151dd55/click HTTP/1.1" 200 14
+2019-11-20 22:46:18,871 :DEBUG: Finished Request
+2019-11-20 22:46:20,871 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a[@data-menu-id='7']"}
+2019-11-20 22:46:20,887 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:46:20,888 :DEBUG: Finished Request
+2019-11-20 22:46:20,888 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/f49f532a-b45c-4ac1-9027-285b367333ff/click {"id": "f49f532a-b45c-4ac1-9027-285b367333ff"}
+2019-11-20 22:46:20,989 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/f49f532a-b45c-4ac1-9027-285b367333ff/click HTTP/1.1" 200 14
+2019-11-20 22:46:20,990 :DEBUG: Finished Request
+2019-11-20 22:46:24,991 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a/div[contains(text(),'All Computers & Accessories')]"}
+2019-11-20 22:46:25,018 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:46:25,019 :DEBUG: Finished Request
+2019-11-20 22:46:25,019 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/4a2a6bda-1f54-44a7-be1a-f959e40bdd03/click {"id": "4a2a6bda-1f54-44a7-be1a-f959e40bdd03"}
+2019-11-20 22:46:27,175 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/4a2a6bda-1f54-44a7-be1a-f959e40bdd03/click HTTP/1.1" 200 14
+2019-11-20 22:46:27,175 :DEBUG: Finished Request
+2019-11-20 22:46:27,175 :DEBUG: GET http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/title {}
+2019-11-20 22:46:27,296 :DEBUG: http://127.0.0.1:57702 "GET /session/fc071ccdc0617146002ff536a10fb423/title HTTP/1.1" 200 106
+2019-11-20 22:46:27,296 :DEBUG: Finished Request
+2019-11-20 22:46:29,297 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/back {}
+2019-11-20 22:46:31,092 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/back HTTP/1.1" 200 14
+2019-11-20 22:46:31,093 :DEBUG: Finished Request
+2019-11-20 22:46:33,093 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "css selector", "value": "[id=\"nav-hamburger-menu\"]"}
+2019-11-20 22:46:33,116 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:46:33,117 :DEBUG: Finished Request
+2019-11-20 22:46:33,117 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/aa567ac9-5c84-4339-9b6f-dd56a5a902e4/click {"id": "aa567ac9-5c84-4339-9b6f-dd56a5a902e4"}
+2019-11-20 22:46:33,360 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/aa567ac9-5c84-4339-9b6f-dd56a5a902e4/click HTTP/1.1" 200 14
+2019-11-20 22:46:33,361 :DEBUG: Finished Request
+2019-11-20 22:46:35,362 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a[@data-menu-id='7']"}
+2019-11-20 22:46:35,397 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:46:35,398 :DEBUG: Finished Request
+2019-11-20 22:46:35,398 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/7aa72769-55f0-4adc-9849-78aad5606ad5/click {"id": "7aa72769-55f0-4adc-9849-78aad5606ad5"}
+2019-11-20 22:46:35,501 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/7aa72769-55f0-4adc-9849-78aad5606ad5/click HTTP/1.1" 200 14
+2019-11-20 22:46:35,502 :DEBUG: Finished Request
+2019-11-20 22:46:39,503 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "xpath", "value": "//a/div[contains(text(),'Laptops')]"}
+2019-11-20 22:46:39,553 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:46:39,554 :DEBUG: Finished Request
+2019-11-20 22:46:39,555 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/8d50711d-d750-45b2-b4db-cba211d0c106/click {"id": "8d50711d-d750-45b2-b4db-cba211d0c106"}
+2019-11-20 22:46:41,704 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/8d50711d-d750-45b2-b4db-cba211d0c106/click HTTP/1.1" 200 14
+2019-11-20 22:46:41,705 :DEBUG: Finished Request
+2019-11-20 22:46:41,705 :DEBUG: GET http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/title {}
+2019-11-20 22:46:41,848 :DEBUG: http://127.0.0.1:57702 "GET /session/fc071ccdc0617146002ff536a10fb423/title HTTP/1.1" 200 108
+2019-11-20 22:46:41,848 :DEBUG: Finished Request
+2019-11-20 22:46:43,849 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/back {}
+2019-11-20 22:46:45,199 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/back HTTP/1.1" 200 14
+2019-11-20 22:46:45,200 :DEBUG: Finished Request
+2019-11-20 22:46:47,200 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element {"using": "css selector", "value": "[id=\"nav-hamburger-menu\"]"}
+2019-11-20 22:46:47,239 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element HTTP/1.1" 200 88
+2019-11-20 22:46:47,239 :DEBUG: Finished Request
+2019-11-20 22:46:47,240 :DEBUG: POST http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/element/40d73d3b-2d6f-4578-becd-a8497687fb87/click {"id": "40d73d3b-2d6f-4578-becd-a8497687fb87"}
+2019-11-20 22:46:47,513 :DEBUG: http://127.0.0.1:57702 "POST /session/fc071ccdc0617146002ff536a10fb423/element/40d73d3b-2d6f-4578-becd-a8497687fb87/click HTTP/1.1" 200 14
+2019-11-20 22:46:47,514 :DEBUG: Finished Request
+2019-11-20 22:46:49,516 :INFO: Category title verification pass: Mobile Phones: Buy New Mobiles Online at Best Prices in India | Buy Cell Phones Online - Amazon.in
+2019-11-20 22:46:49,516 :INFO: Category title verification pass: Mobile Accessories: Buy Mobile Accessories online at best prices in India - Amazon.in
+2019-11-20 22:46:49,516 :INFO: Category title verification pass: Mobile Covers: Buy Mobile Cases Online at Best Prices in India - Amazon.in
+2019-11-20 22:46:49,516 :ERROR: Category title verification failed: Mobile Screen Protectors: Buy Mobile Screen Protectors Online at Low Prices in India - Amazon.in
+2019-11-20 22:46:49,517 :INFO: Category title verification pass: Power Bank: Buy Power Banks online at best prices in India - Amazon.in
+2019-11-20 22:46:49,517 :INFO: Category title verification pass: Computers & Accessories: Buy Computers & Accessories Online at Low Prices in India - Amazon.in
+2019-11-20 22:46:49,517 :INFO: Category title verification pass: Laptop Prices in India: Buy Laptops Online at Low Prices | Windows, Mac, DOS Laptops - Amazon.in
+2019-11-20 22:46:49,519 :DEBUG: DELETE http://127.0.0.1:57702/session/fc071ccdc0617146002ff536a10fb423/window {}
+2019-11-20 22:46:51,677 :DEBUG: http://127.0.0.1:57702 "DELETE /session/fc071ccdc0617146002ff536a10fb423/window HTTP/1.1" 200 14
+2019-11-20 22:46:51,678 :DEBUG: Finished Request
